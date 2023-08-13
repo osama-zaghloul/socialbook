@@ -492,7 +492,7 @@ nav {
   padding-left: 23px;
 }
 
-/* -------Profile page---------- */
+/* --------------------Profile page-------------------- */
 .profile-container {
   padding: 20px 15%;
   color: #626262;
@@ -650,7 +650,7 @@ nav {
   left: 0;
 }
 
-/* ----------Home media query---------- */
+/* ---------------------Home media query--------------------- */
 @media (max-width: 900px) {
   .left-sidebar {
     display: none;
@@ -711,7 +711,7 @@ nav {
   }
 }
 
-/* -----------media query for profile page-------- */
+/* --------------------media query for profile page------------- */
 
 @media (max-width: 900px) {
   .profile-container {
@@ -734,3 +734,4 @@ nav {
     flex-basis: 100%;
   }
 }
+/* --------------------End------------- */
